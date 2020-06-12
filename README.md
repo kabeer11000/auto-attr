@@ -1,4 +1,4 @@
-<h1>Auto  Attr JS</h1>
+<h1><img src="http://docs-kabeersnetwork-kview-app-sta.rf.gd/Private/uploads/5ee3c13e044ff---icon.png">Auto  Attr JS</h1>
 
 <p>Kabeers Auto Attr JS is a compact Javascript Library to Auto Add attributes to Elements in bulk. For example writing bootstrap Code.</p>
 
