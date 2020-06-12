@@ -33,4 +33,10 @@ Convert  This Code...
         //Tag is the Global Variable Which Comes with Auto Attr
         tag(data, type);
 &lt;/script&gt;</code></pre>
-<p>Now Kabeers Auto Attr JS will add Defined Attributes to the Defined Tags or attributes in Bulk<br> Read Proper Documentation from our offical Docs Page by Clicking <a href="http://kabeersnetwork.dx.am/apis#section-9"><h3><strong>Here</strong><h3></a></p>
+<p>Now Kabeers Auto Attr JS will add Defined Attributes to the Defined Tags or attributes in Bulk<br> Read Proper Documentation from our offical Docs Page by Clicking <a href="http://kabeersnetwork.dx.am/apis#section-9"><strong>Here</strong></a></p>
+    
+Add Auto Attr JS From a CDN
+
+<pre><code class="language-js">&lt;script type="text/javascript" src="http://docs-kabeersnetwork-kview-app-sta.rf.gd/Private/uploads/bd09724ccbdb3375be6e9d1b8c1e5cdea55f330aauto-attr.prod.min.js"&gt;&lt;/script&gt;</code></pre>
+
+Or to Check it out from Kabeers Network CDNs click <a href="http://kabeersnetwork.dx.am/cdn?item=attr%20js"><strong>Here</strong></a>
