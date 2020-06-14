@@ -35,8 +35,7 @@ window.tag = function(tags, type) {
                     let value = tags[key];
                     if (type2val(eltype.typeParent) == 0) {
                         document.querySelectorAll(key).forEach(function(xampp) {
-                            let atttr = xampp.getAttribute(eltype.typeConvert);
-                            xampp.setAttribute(eltype.typeConvert, atttr);
+                            xampp.setAttribute(eltype.typeConvert, '');
                         })
                         if (document.querySelectorAll(key).forEach(function(x) {
                                 let attr = x.getAttribute(eltype.typeConvert);
