@@ -1,4 +1,6 @@
-![image alternative text](icon.png)<h1>Auto  Attr JS</h1>
+![image alternative text](icon.png)
+
+<h1>Auto  Attr JS</h1>
 
 <p>Kabeers Auto Attr JS is a compact Javascript Library to Auto Add attributes to Elements in bulk. For example writing bootstrap Code.</p>
 
