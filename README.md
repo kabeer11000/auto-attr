@@ -39,7 +39,7 @@ Convert  This Code...
     
 <h5>Add Auto Attr JS From a CDN</h5>
 <p>Version 1.0.0</p>
-<pre><code class="language-js">&lt;script type="text/javascript" src="http://docs-kabeersnetwork-kview-app-sta.rf.gd/cdn/auto-attr/1.0.0/auto-attr.prod.min.js"&gt;&lt;/script&gt;</code></pre>
+<pre><code class="language-js">&lt;script type="text/javascript" src="http://docs-kabeersnetwork-kview-app-sta.rf.gd/cdn/auto-attr/1.0.0/auto-attr.min.js"&gt;&lt;/script&gt;</code></pre>
 
 <p>Version 1.0.1</p>
 <pre><code class="language-js">&lt;script type="text/javascript" src="http://docs-kabeersnetwork-kview-app-sta.rf.gd/cdn/auto-attr/1.0.1/auto-attr.prod.min.js"&gt;&lt;/script&gt;</code></pre>
