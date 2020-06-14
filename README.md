@@ -50,4 +50,4 @@ Convert  This Code...
 <p>Version 1.0.0</p>
 <pre><code class="language-js">&lt;script type="text/javascript" src="https://kabeer11000.github.io/auto-attr/1.0.1/auto-attr.prod.min.js"&gt;&lt;/script&gt;</code></pre>
 
-Or to Check it out from Kabeers Network CDNs click <a href="http://kabeersnetwork.dx.am/cdn?item=attr%20js"><strong>Here</strong></a>
+Or to Check it out from Kabeers Network CDNs click <a href="http://kabeersnetwork.dx.am/cdn?item=attr%20js" target="_blank"><strong>Here</strong></a>
