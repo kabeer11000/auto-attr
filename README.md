@@ -12,7 +12,7 @@ Convert  This Code...
            &lt;div class=&quot;h1 display-1&quot;&gt;Hello World&lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;
-&lt;/div&gt;</code></pre><br>
+&lt;/div&gt;</code></pre>
 ...To Just
 <pre><code class="language-html">&lt;container&gt;
     &lt;row&gt;
@@ -20,7 +20,7 @@ Convert  This Code...
            &lt;div class=&quot;h1 display-1&quot;&gt;Hello World&lt;/div&gt;
         &lt;/col-md-12&gt;
     &lt;/row&gt;
-&lt;/container&gt;</code></pre><br>
+&lt;/container&gt;</code></pre>
 ...And instantiate Javascript.
 <pre><code class="language-js">&lt;script&gt;
         //Define Data
