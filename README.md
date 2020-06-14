@@ -39,10 +39,10 @@ Convert  This Code...
     
 <h5>Add Auto Attr JS From a CDN</h5>
 <p>Version 1.0.0</p>
-<pre><code class="language-js">&lt;script type="text/javascript" src="http://docs-kabeersnetwork-kview-app-sta.rf.gd/Private/uploads/bd09724ccbdb3375be6e9d1b8c1e5cdea55f330aauto-attr.prod.min.js"&gt;&lt;/script&gt;</code></pre>
+<pre><code class="language-js">&lt;script type="text/javascript" src="http://docs-kabeersnetwork-kview-app-sta.rf.gd/cdn/auto-attr/1.0.0/auto-attr.prod.min.js"&gt;&lt;/script&gt;</code></pre>
 
 <p>Version 1.0.1</p>
-<pre><code class="language-js">&lt;script type="text/javascript" src="http://docs-kabeersnetwork-kview-app-sta.rf.gd/Private/uploads/5a318e009670433d88acd95180b64e2f3b722780auto-attr.1.0.1.prod.min.js"&gt;&lt;/script&gt;</code></pre>
+<pre><code class="language-js">&lt;script type="text/javascript" src="http://docs-kabeersnetwork-kview-app-sta.rf.gd/cdn/auto-attr/1.0.1/auto-attr.prod.min.js"&gt;&lt;/script&gt;</code></pre>
 <hr>
 <h5>Or Add directly from this repository</h5>
 <p>Version 1.0.0</p>
