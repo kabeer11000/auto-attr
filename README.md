@@ -47,7 +47,7 @@ Convert  This Code...
 <h5>Or Add directly from this repository</h5>
 <p>Version 1.0.0</p>
 <pre><code class="language-js">&lt;script type="text/javascript" src="https://kabeer11000.github.io/auto-attr/1.0.0/auto-attr.prod.min.js"&gt;&lt;/script&gt;</code></pre>
-<p>Version 1.0.0</p>
+<p>Version 1.0.1</p>
 <pre><code class="language-js">&lt;script type="text/javascript" src="https://kabeer11000.github.io/auto-attr/1.0.1/auto-attr.prod.min.js"&gt;&lt;/script&gt;</code></pre>
 
 Or to Check it out from Kabeers Network CDNs click <a href="http://kabeersnetwork.dx.am/cdn?item=attr%20js" target="_blank"><strong>Here</strong></a>
